@@ -2,11 +2,15 @@
 
 __DISCLAIMER: THIS IS WORK IN PROGRESS AND NOT A FINAL MANIFESTO__
 
-Software is eating the world. There will always be more software created by more people. 
+## Problem Statement
 
-This means that there will be more diversity (who writes and consumes software).
+We observe that Software is eating the world. 
 
-There will be more one-off experiments landing in production (test in production).
+There will always be more software created by more people. 
+
+This means that there will be more diversity: people who write and consume software.
+
+There will be more one-off experiments landing in production because the barrier to entry is getter lower.
 
 Evidence: 
  
@@ -14,21 +18,27 @@ Evidence:
  * FaaS/Serverless movement favors the smallest possible units of development
  * The software delivery manifesto acknowledges that delivery pipelines are software pieces and need to be nurtured like that.
 
-Conclusion: Complexity is growing inevitably. 
+Therefor:
+ 
+Complexity is growing inevitably. 
 
 There is a concept that helps organizing complexity:
 
 > There was this thing called modularity once. (https://twitter.com/mfeathers/status/1114925378752016384)
 
-Frameworks and Tools that are known to help you with modularity - like OSGi in the Java space for decades - are getting the blame for being too comlicated, not worth the pain etc. (Shooting the messenger?)
+Frameworks and Tools that are known to help you with modularity - like OSGi in the Java space for decades - are getting the blame for being too comlicated, not worth the pain etc. (Shooting the messenger)
 
-# We conclude
+## Values
 
- * Throw-away development cost is always a loss. 
+ * GreenDev favors Open Source Software Licensing (as in https://de.wikipedia.org/wiki/Open_Source_Initiative) over Closed Source Licencing
+ 
+* GreenDev assumes that most software pieces will land in production and should be nurtured that way.
 
-* GreenDev is about a sustainable practices in development (eg learning, sharing) & re-use of parts (modularity).
+* GreenDev favors self service automation over manual processes and steps.
 
- * We dislike the idea that software development is a cost center.
+* GreenDev is about a sustainable practices in development (eg learning, sharing) 
+
+* GreenDev advocates the re-use of parts (modularity).
 
 ## Why Green?
 
