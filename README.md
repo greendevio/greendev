@@ -55,7 +55,13 @@ Modularity is hard.
 
 You need to have been burned at least once to appreciate it.
 
-We know that there is no-silver bullet to modularity.
+We know that there is no-silver bullet to modularity. 
+
+But modularity is (as hard as it is) a safe pathway to tackle known issues with pervasive software everywhere:
+
+ * Security (know your boundaries)
+ * Stability (know the impact of changes)
+ * Discovery (know the capabilities)
 
 ## Origin
 
