@@ -65,7 +65,9 @@ We know that there is no-silver bullet to modularity.
 
 ## Relationship to Software Craftsmenship
 
-We think GeenDev is a modern version of software craftsmenship. In a world of automation, persvasive cloud and self-service delivery a medival
+We think GeenDev is a modern version of software craftsmenship. In a world of automation, persvasive cloud and self-service delivery a medival approach might be misleading.
+
+We think GreenDev can complement Software Craftsmenship.
 
 ## Authors
 
