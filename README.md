@@ -71,7 +71,7 @@ But modularity is (as hard as it is) a safe pathway to tackle known issues with 
 
 ## Relationship to Software Craftsmenship
 
-We think GeenDev is a modern version of software craftsmenship. In a world of automation, persvasive cloud and self-service delivery a medival approach might be misleading.
+We think GeenDev is a modern version of software craftsmenship. In a world of automation, persvasive cloud and self-service delivery a medival wording might be misleading.
 
 We think GreenDev can complement Software Craftsmenship.
 
