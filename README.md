@@ -48,8 +48,6 @@ Green carries a lot of what we think is needed in the industry of software devel
 
 ### Mindful to the environment
 
-### 
-
 ### Recycling
 
 > Software has no cost of disposal (https://twitter.com/schneider_chris/status/1115502152678617088).
