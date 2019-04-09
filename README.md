@@ -28,6 +28,8 @@ There is a concept that helps organizing complexity:
 
 In the past, frameworks and tools that are known to help you with modularity - like OSGi in the Java space for decades - are getting the blame for being too comlicated, not worth the pain etc. (Shooting the messenger)
 
+The fact that the pain may worth it eventually was never communicated well.
+
 __Instead, we propose a value-driven approach to sustainable software development. We call this GreenDev.__ 
 
 ## Values
