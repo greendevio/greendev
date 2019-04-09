@@ -26,7 +26,9 @@ There is a concept that helps organizing complexity:
 
 > There was this thing called modularity once. (https://twitter.com/mfeathers/status/1114925378752016384)
 
-Frameworks and Tools that are known to help you with modularity - like OSGi in the Java space for decades - are getting the blame for being too comlicated, not worth the pain etc. (Shooting the messenger)
+In the past, frameworks and tools that are known to help you with modularity - like OSGi in the Java space for decades - are getting the blame for being too comlicated, not worth the pain etc. (Shooting the messenger)
+
+__Instead, we propose a value-driven approach to sustainable software development. We call this GreenDev.__ 
 
 ## Values
 
