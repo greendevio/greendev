@@ -44,6 +44,8 @@ __Instead, we propose a value-driven approach to sustainable software developmen
 
 * GreenDev advocates the re-use of parts (modularity).
 
+* GreenDev is modular, minimal, local.
+
 ## Why Green?
 
 Green carries a lot of what we think is needed in the industry of software development lifecycle.
