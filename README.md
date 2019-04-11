@@ -12,25 +12,17 @@ This means that there will be more diversity: people who write and consume softw
 
 There will be more one-off experiments landing in production because the barrier to entry is getter lower.
 
-Evidence: 
- 
- * NPM (the node registry) is the largest, uncurated module repository in the world (heck universe as Ashley Williams buts it).
- * FaaS/Serverless movement favors the smallest possible units of development
- * The software delivery manifesto acknowledges that delivery pipelines are software pieces and need to be nurtured like that.
-
-Therefor:
- 
 Complexity is growing inevitably. 
 
 There is a concept that helps organizing complexity:
 
 > There was this thing called modularity once. (https://twitter.com/mfeathers/status/1114925378752016384)
 
-In the past, frameworks and tools that are known to help you with modularity - like OSGi in the Java space for decades - are getting the blame for being too comlicated, not worth the pain etc. (Shooting the messenger)
+In the past, frameworks and tools that are known to help you with modularity - like OSGi in the Java space for decades - are getting the blame for being too complicated, not worth the pain etc. (Shooting the messenger).
 
 The value of *going the extra mile* is often questioned in fast paced product development. *GreenDev* expresses the long term benefit. It can help communicate the extra effort.
 
-__Instead, we propose a value-driven approach to sustainable software development. We call this GreenDev.__ 
+__We propose a value-driven approach to sustainable software development. We call this GreenDev.__ 
 
 ## Values
 
@@ -38,7 +30,7 @@ __Instead, we propose a value-driven approach to sustainable software developmen
  
 * GreenDev assumes that most software pieces will land in production and should be nurtured that way.
 
-* GreenDev favors self service automation over manual processes and steps.
+* GreenDev favours self-service automation over manual processes and steps.
 
 * GreenDev is about a sustainable practices in development (eg learning, sharing) 
 
@@ -50,6 +42,8 @@ __Instead, we propose a value-driven approach to sustainable software developmen
 
 Green carries a lot of what we think is needed in the industry of software development lifecycle.
 
+The color green is associated with values such as: Environment-Aware, Healthy, Sustainable, Holistic.
+
 ### Sustainability
 
 ### Mindful to the environment
@@ -57,7 +51,6 @@ Green carries a lot of what we think is needed in the industry of software devel
 ### Recycling
 
 > Software has no cost of disposal (https://twitter.com/schneider_chris/status/1115502152678617088).
-
 
 ## Learning Econonmy
 
@@ -76,6 +69,10 @@ But modularity is (as hard as it is) a safe pathway to tackle known issues with 
  * Security (know your boundaries)
  * Stability (know the impact of changes)
  * Discovery (know the capabilities)
+ 
+## Open Source
+
+*GreenDev* favours Open Source licensing because it simplifies communication across parties and boosts the idea of shared knowledge. There are many other aspects that are benefitial as well: many-eyes-principle for security, avoiding patent-issues that only benefit the lawyers etc.
 
 ## Origin
 
