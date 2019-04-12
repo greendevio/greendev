@@ -1,5 +1,7 @@
 # The Green Dev Manifesto
 
+[![Join the chat at https://gitter.im/greendevio/community](https://badges.gitter.im/greendevio/community.svg)](https://gitter.im/greendevio/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 __DISCLAIMER: THIS IS WORK IN PROGRESS AND NOT A FINAL MANIFESTO__
 
 ## Problem Statement
