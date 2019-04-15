@@ -40,7 +40,7 @@ __We propose a value-driven approach to sustainable software development. We cal
 
 * GreenDev is modular, minimal, local.
 
-* GreenDev values diversity. In a time where female researchers still get shirtstorm and measured by "lines of code" this cannot be valued higher. Above all technical focus, diversity is a core need. Sad that we still have to explicitely state this. :/
+* GreenDev values diversity. In a time where female researchers still get shitstorm & measured by LOC this cannot be valued higher. Above all technical focus, diversity is a core need. Sad that we still have to explicitly state this. :/
 
 ## Why Green?
 
