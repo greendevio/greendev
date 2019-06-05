@@ -26,12 +26,26 @@ The value of *going the extra mile* is often questioned in fast paced product de
 
 __We propose a value-driven approach to sustainable software development. We call this GreenDev.__ 
 
+## Questions that we want to answer
+
+* What makes software "stay in shape" better? Or: How will it rott less fast? 
+** Upstream dependencies get outdated, even discontinued. 
+** Creators might have left the company, moved-on already.
+** Consumers of the piece of software within the organization might be unknown.
+
+* Most software pieces lands in production. Is this true?
+
+* Are organizations having real problems with open sourcing parts of their work?
+** What are the incentives?
+** Does it make things better? 
+** What is the true cost of open sourcing?
+
+* What is the true value of investing in modularity apects?
+
 ## Values
 
  * GreenDev favors Open Source Software Licensing (as in https://de.wikipedia.org/wiki/Open_Source_Initiative) over Closed Source Licencing
  
-* GreenDev assumes that most software pieces will land in production and should be nurtured that way.
-
 * GreenDev favours self-service automation over manual processes and steps.
 
 * GreenDev is about a sustainable practices in development (eg learning, sharing) 
