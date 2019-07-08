@@ -19,7 +19,7 @@ Thats actually how GreenDev got born, a compact description is here: https://www
 - The kick-off question was: "Can OSGi become relevant again or is it dead" (in german there was a better way of expressing this though).
 - This hackernews discussion probably describes it best: https://news.ycombinator.com/item?id=20133145
 
-### Current Conclusion
+### Current Conclusion in context of OSGi
 - public view is not good, you have a hard time finding projects, positive experiences, progress, even finding people who "know about it".
 - The Alliance is a hidden guild, participating seems outdated (paywall, no PRs, website news once per year?)
 - But public arguments against OSGi are mostly uninformed and emotional. Something where other frameworks (lead by companies) just throw people at to fix. (e.g, Pivotal has people living in planes like Josh). This means that right now, the situation with OSGi does NOT seem hopeless.
