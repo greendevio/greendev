@@ -26,3 +26,13 @@ Becoming an OSGi Member (Contributing Associate or higher) is still on the table
 ### Java Module System
 
 > "It exists for people writing books about the Java Module System"
+
+### Sync with Readme
+
+https://github.com/greendevio/greendev/blob/master/README.md
+
+### OSGi release schedule aka java
+
+- have frequent releases with incubating ideas
+- have LTS releases
+
