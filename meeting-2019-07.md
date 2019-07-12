@@ -2,6 +2,10 @@
 
 [![Join the chat at https://gitter.im/greendevio/community](https://img.shields.io/badge/join%20on-slack-brightgreen.svg)](https://rebaze.slack.com)
 
+## When?
+
+There is a doodle for this: https://doodle.com/poll/vutnsf7f7tbe3dit
+
 ## Possible Topics
 
 ### OSGi Community Event 2019
