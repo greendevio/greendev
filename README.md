@@ -43,8 +43,7 @@ As you see, there is no mention of OSGi and this is on purpose. We try to put th
 - Thomas Driessen (thomas.driessen.td@gmail.com)
 - Harald Wellmann (hwellmann.de@gmail.com)
 - David Bosschaert (david.bosschaert@gmail.com)
-- Nina Waty
-- Francois Papon
-- Milen Dyankov
-
+- Nina Nyhuis (hallo@ninawatynyhuis.de)
+- Francois Papon (fpapon@yupiik.com)
+- Milen Dyankov (milendyankov@gmail.com)
 
