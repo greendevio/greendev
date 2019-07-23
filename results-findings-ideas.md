@@ -43,3 +43,4 @@ Ideas that came up:
 * A well-curated website with the above mentioned items (including a forum that is not a mailing list -.-)
 * A tool like JHipster for OSGi (define your domain model and get a working prototype application)
 * A tool like Stackery for OSGi (architect your application visually and get a compiling skeleton)
+* The GreenDev Slack Channel could be a spot for OSGi-Newbies people could ask questions too (not discusssed yet)
