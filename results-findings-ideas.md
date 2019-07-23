@@ -32,7 +32,8 @@ These ideas revolve around rewriting/changing OSGi or creating something complet
 
 Ideas that came up:
 * Isolation on process level (@Holger: please elaborate ;) )
-* [Febo](https://github.com/greendevio/febo)
+* [Febo](https://github.com/greendevio/febo)  
+* Use OSGi as plugin-host only (the old embedd osgi into existing app idea, but taken seriously and not just as a "drug to get into OSGI")
 
 ### Developer Experience
 
