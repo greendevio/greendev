@@ -13,6 +13,8 @@ As a way to understand the situation and put things into context without just hy
 
 Thats actually how GreenDev got born, a compact description is here: https://www.greendev.io
 
+As you see, there is no mention of OSGi and this is on purpose. We try to put the problem area first. OSGi is a (potential) solution and (currently) a common background of the members.
+
 ## What happened so far
 
 - The initial kick-off of greendev was in a hangout on June 6th, 2019. 
