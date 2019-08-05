@@ -1,6 +1,6 @@
 # Next Hangout Topics
 
-Maybe as early as Wednesday, 24th of July 2019
+Probably after August 12th 2019 (because of vacation time)
 
 > I think we need to discuss options around JHipster/Stackery for OSGi. I am discussing this with @Thomas Driessen and i am personally torn between „just a code generator, isn’t this just for tech demos?“ and „yes, that’s a way to give people the batteries to fly immediately and learn on the go“.
 
@@ -9,6 +9,7 @@ Maybe as early as Wednesday, 24th of July 2019
 - [JHipster](https://www.jhipster.tech/) (generates a working, opinionated CRUD app out of a domain model (textual/visual), i.e. Spring Boot/Dropwizard on steroids)
 - [Stackery](https://www.stackery.io/) (generates an AWS Cloudformation stack yaml out of a visual description of a serverless app. For functions: also generation of project structure for different runtimes. Also manages CI/CD/Monitoring of generated stacks)
 - [Dropwizard](https://www.dropwizard.io/1.3.13/docs/) / [Spring Boot](https://spring.io/projects/spring-boot) (generate opinionated, walking skeletons (CLI?))
+- https://github.com/openshift/odo (Imagine a "OSGiDo")
 
 ## Old examples
 The "generate working projects" is not new at all. Lets mention some old examples (for good or bad):
