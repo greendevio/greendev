@@ -2,7 +2,9 @@
 
 Most likely on the evening of november 6th, according to doodle https://doodle.com/poll/byinp3453qdm3chp
 
-Hangout Link: TBD
+When? Wednesday, 6th of November 2019, 20:00 UTC+1.
+
+Meeting Link: https://meet.google.com/vec-vdxp-aqw
 
 There are quite some reasons to have a call again:
 - very long time since the last hangout (July if i remember correctly)
