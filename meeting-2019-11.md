@@ -4,7 +4,7 @@ Most likely on the evening of november 6th, according to doodle https://doodle.c
 
 When? Wednesday, 6th of November 2019, 20:00 UTC+1.
 
-Meeting Link: https://meet.google.com/vec-vdxp-aqw
+Meeting Link: https://whereby.com/rebaze
 
 There are quite some reasons to have a call again:
 - very long time since the last hangout (July if i remember correctly)
